@@ -36,6 +36,8 @@ This tool is particularly useful for organizations handling confidential data su
 **1. Clone the repository:**<br>
   bash ```
     git clone https://github.com/prachishende007/AI_Shredder_and_Redaction_Tool.git
+    ```
+    
     cd ai-shredder-redactor
      ```
 
